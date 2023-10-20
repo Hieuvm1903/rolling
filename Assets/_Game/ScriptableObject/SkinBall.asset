@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6175bfb575c5e994d97b51203e3658ec, type: 3}
+  m_Name: SkinBall
+  m_EditorClassIdentifier: 
+  skinDatas:
+  - type: 0
+    price: 0
+    skinTire: {fileID: 4204820840451367402, guid: 433eb98c539e73a4e945cd08d0bd8e41, type: 3}
+    skinHead: {fileID: 0}
+  - type: 1
+    price: 0
+    skinTire: {fileID: 4430891331190964131, guid: d0a6d3f4133b22e4cb8b7aa8580074f9, type: 3}
+    skinHead: {fileID: 0}
+  - type: 2
+    price: 0
+    skinTire: {fileID: 8816267019620770166, guid: 9c30db767a8249c4c96c81b8129f8519, type: 3}
+    skinHead: {fileID: 0}
+  - type: 3
+    price: 0
+    skinTire: {fileID: 3029119153602768673, guid: 84071c99b9921f3468ede2355a134f5b, type: 3}
+    skinHead: {fileID: 3029119153602768673, guid: 11ba6ea608c15db4bbb133a3f2dcb057, type: 3}
+  - type: 6
+    price: 0
+    skinTire: {fileID: 2748966846186378218, guid: b624ba7a90924f94694a49fbd399e28e, type: 3}
+    skinHead: {fileID: 2748966846186378218, guid: a30d95eac4ec26a42820e94e3594e4e7, type: 3}
+  - type: 7
+    price: 0
+    skinTire: {fileID: 1162720572938085541, guid: 0799e7ea508f0ed4dadfc139127e22d3, type: 3}
+    skinHead: {fileID: 0}
+  - type: 4
+    price: 0
+    skinTire: {fileID: 4830302542368474302, guid: 52366c69a52b16c44924bc07874e1b9e, type: 3}
+    skinHead: {fileID: 0}
+  - type: 5
+    price: 0
+    skinTire: {fileID: 2333122404154202240, guid: ca9d46438c07b90439da4969ae205efa, type: 3}
+    skinHead: {fileID: 2333122404154202240, guid: a1be90b28fba5cd40be36d039a8cd3fc, type: 3}
+  - type: 8
+    price: 0
+    skinTire: {fileID: 8485717918730880434, guid: 309def0a3ace5f544a6d4fc62863b66d, type: 3}
+    skinHead: {fileID: 0}
+  - type: 9
+    price: 0
+    skinTire: {fileID: 1886867304511596028, guid: df06e9c8e62fefc468320857fa961306, type: 3}
+    skinHead: {fileID: 0}
+  - type: 10
+    price: 0
+    skinTire: {fileID: 7213753643552999301, guid: 8b6897b2287eb804fafad17e638f3109, type: 3}
+    skinHead: {fileID: 0}
+  - type: 13
+    price: 0
+    skinTire: {fileID: 4194528795361658638, guid: 2d850cbd2607a8d4cba1aee69f400743, type: 3}
+    skinHead: {fileID: 0}
+  - type: 12
+    price: 0
+    skinTire: {fileID: 2565752312328595658, guid: 11e8b98b414f7c047b4e1f9808c4e62f, type: 3}
+    skinHead: {fileID: 0}
+  - type: 14
+    price: 0
+    skinTire: {fileID: 1786051142847789941, guid: c891ad0cc3b1e97488667aa3253ea288, type: 3}
+    skinHead: {fileID: 0}
+  - type: 11
+    price: 0
+    skinTire: {fileID: 4243304470588685488, guid: 0f4abd14510c4f8479b47be72ad25c60, type: 3}
+    skinHead: {fileID: 0}
+  - type: 15
+    price: 0
+    skinTire: {fileID: 3016689438782485126, guid: 56508775bd9c4d84b9a4708634d49fc3, type: 3}
+    skinHead: {fileID: 0}
+  - type: 16
+    price: 0
+    skinTire: {fileID: 8546471044678791472, guid: eddb0edd234a3dc40b198017c25a5f0e, type: 3}
+    skinHead: {fileID: 0}
+  - type: 17
+    price: 0
+    skinTire: {fileID: 6157653110215051082, guid: f93a0d23a874a044d8a89c5465289fc5, type: 3}
+    skinHead: {fileID: 6157653110215051082, guid: 1d9a4c91a6a79194db95d53f6a433a8d, type: 3}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81db3a1841caab94893069b2e712644d, type: 3}
+  m_Name: SkyBox
+  m_EditorClassIdentifier: 
+  skyBoxes:
+  - price: 0
+    material: {fileID: 2100000, guid: 3f19f730cd8dd51438a6f49ebefa0da5, type: 2}
+    skyType: 0
+  - price: 1000
+    material: {fileID: 2100000, guid: 12d48a7c4ce7b994f8aa71a30f1f77b4, type: 2}
+    skyType: 1
+  - price: 2000
+    material: {fileID: 2100000, guid: ab5eb1247a15f4b4eab83aba76039a4b, type: 2}
+    skyType: 2
+  - price: 4000
+    material: {fileID: 2100000, guid: 42fa7a90c659598468f418c724656977, type: 2}
+    skyType: 3
+  - price: 8000
+    material: {fileID: 2100000, guid: b5b92087d71d6d64b93725f2a8afcc51, type: 2}
+    skyType: 4
+  - price: 10000
+    material: {fileID: 2100000, guid: 4954a1394523e434fb58288f749a02e3, type: 2}
+    skyType: 5
+  - price: 25000
+    material: {fileID: 2100000, guid: ffc9d08129099cf47b4c01c6f2cac947, type: 2}
+    skyType: 6
